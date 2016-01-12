@@ -1,1 +1,127 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Nkr by desawa12</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<div class="wrapper">
 
+      <section>
+        <div id="title">
+          <h1>นครราชสีมา</h1>
+          <p>NKR</p>
+          <hr>
+        </div>
+  </head>
+  <body>
+      <div  class="navbar-collapse collapse">
+          <ul  class="nav navbar-nav"  id="navigation">
+            <li><a  href="#about">หน้าหลัก</a></li>
+            <li><a  href="#news">ข่าว</a></li>
+            <li><a  href="#Attractions">สถานที่ท่องเที่ยว</a></li>
+            <li><a  href="#hotel">ที่พัก</a></li>
+            <li><a  href="#food">อาหาร</a></li>
+            <li><a  href="#travel">การเดินทาง</a></li>
+            <li><a  href="#contact">ติดต่อเรา</a></li>
+          </ul>
+        </div><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="news">
+          <h1>ข่าว</h1>
+          <hr>
+        </div>
+
+        <h3>
+<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>ยินดีต้อนรับ</h3>
+
+<p>เว็บไซต์นี้จะให้ข้อมูลสำหรับการท่องเที่ยว จังหวัดนครราชสีมา
+
+<h3>
+<a id="Attractions" class="anchor" href="#Attractions" aria-hidden="true"><span class="octicon octicon-link"></span></a></h3>
+<section>
+        <div id="สถานที่ท่องเที่ยว">
+          <h4>สถานที่ท่องเที่ยว</h4>
+          <hr>
+        </div>
+        
+สถานที่ท่องเที่ยวที่แนะนำ
+-ฟาร์มโชคชัย
+<img src="http://donmueangairportthai.com/uploads/profiles/0000000003/filemanager/images/weekend-sep10-6-0.jpg"></img>
+-ตลาดน้ำเขาใหญ่
+<img src="http://daddyai.com/wp-content/uploads/2015/01/khaoyaifloatingmarket-01.jpg"></img>
+-เขาใหญ่อาร์ต มิวเซียม
+<img src="http://donmueangairportthai.com/uploads/profiles/0000000003/filemanager/images/khao_yai_art_slide06.jpg"></img>
+-วัดโนนกุ่ม
+<img src="https://krupom.files.wordpress.com/2012/05/p2.jpg"></img>
+-น้ำพุธรรมชาติ น้ำผุด ปากช่อง
+<img src="http://travel.mthai.com/wp-content/uploads/2015/03/p1709nrasj16hp1orh4h91fl1d5e3.jpg"></img>
+-ผาเก็บตะวัน อ.วังน้ำเขียว
+<img src="http://travel.mthai.com/wp-content/uploads/2015/03/1005675951.jpg"></img>
+-น้ำตกเหวสุวัต
+<img src="http://variety.teenee.com/foodforbrain/img2/152137.jpg"></img>
+-วิหารเทพวิทยาคม วัดบ้านไร่
+<img src="http://www.matichon.co.th/news-photo/matichon/2014/02/tra02150257p2.jpg"></img>
+-จิมทอมสัน ฟาร์ม
+<img src="http://www.artbangkok.com/wp-content/uploads/2014/10/27.jpg"></img>
+
+-
+<section>
+        <div id="hotel">
+          <h4>ที่พักแนะนำ</h4>
+          <hr>
+        </div>
+    คลิก >><a href="http://www.booking.com/hotel/th/thanya-pura-boutique-resort.th.html?aid=331514;label=nakhon-ratchasima-Qvv4Ln%2AflmDumLBzRlYMDwS84259609389%3Apl%3Ata%3Ap145%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atiaud-146342138230%3Akwd-11116460542%3Alp1012750%3Ali%3Adec%3Adm;sid=2226054a80b691a8afa7f9b1b21915c8;dcid=4;src=clp;openedLpRecProp=1;ccpi=1">ธัญญะปุระ บูติค รีสอร์ท</a><p>
+    <img src="http://q-ak.bstatic.com/images/hotel/840x460/391/39142398.jpg"></img>
+    คลิก >><a href="http://www.booking.com/hotel/th/the-grand-residence.th.html?aid=331514;label=nakhon-ratchasima-Qvv4Ln%2AflmDumLBzRlYMDwS84259609389%3Apl%3Ata%3Ap145%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atiaud-146342138230%3Akwd-11116460542%3Alp1012750%3Ali%3Adec%3Adm;sid=2226054a80b691a8afa7f9b1b21915c8;dcid=4;src=clp;openedLpRecProp=1;ccpi=1">เดอะ แกรนด์ เรสซิเดนซ์</a><p>
+    <img src="http://q-ak.bstatic.com/images/hotel/840x460/277/27711391.jpg"></img>
+    คลิก >><a href="http://www.booking.com/hotel/th/u-sabai-park-resort.th.html?aid=331514;label=nakhon-ratchasima-Qvv4Ln%2AflmDumLBzRlYMDwS84259609389%3Apl%3Ata%3Ap145%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atiaud-146342138230%3Akwd-11116460542%3Alp1012750%3Ali%3Adec%3Adm;sid=2226054a80b691a8afa7f9b1b21915c8;dcid=4;src=clp;openedLpRecProp=1;ccpi=1">ยู-สบาย พาร์ค โฮเทล & รีสอร์ท</a><p> 
+     <img src="http://q-ak.bstatic.com/images/hotel/840x460/174/17423215.jpg"></img>
+     คลิก >><a href="http://www.booking.com/hotel/th/mountain-creek-golf-resort-amp-residences.th.html?aid=368593;label=khao-yai-r9SJMBby0ciHPhW35LFytQS67850124086%3Apl%3Ata%3Ap1115%3Ap2535%2C000%3Aac%3Aap1t1%3Aneg%3Afi%3Atiaud-146342138230%3Akwd-13942882742%3Alp1012750%3Ali%3Adec%3Adm;sid=2226054a80b691a8afa7f9b1b21915c8;dcid=4;dist=0;room1=A%2CA;sb_price_type=total;srfid=8745e16fa75771e027060a75b754dfe167ca928bX1;type=total;ucfs=1&1">ยู-สบาย พาร์ค โฮเทล & รีสอร์</a><p></p>
+    <img src="http://q-ak.bstatic.com/images/hotel/840x460/244/24444588.jpg"></img>
+
+<section>
+        <div id="food">
+          <h4>ร้านอาหารแนะนำ</h4>
+          <hr>
+        </div>
+    คลิก >> <a href="https://www.wongnai.com/restaurants/chocolatefactory-ky">The Chocolate Factory</a><p></p>
+    <img src="http://www.oknation.net/blog/home/user_data/file_data/201312/26/110d999.jpg"></img>
+    คลิก >> <a href="https://www.wongnai.com/restaurants/9569iR-the-great-hornbill-pb-valley">The Great Hornbill </a><p></p>
+    <img src="http://kbankcard.askkbank.com/TH/K-Lifestyle/TasteOfLife/HangOutPlace/PublishingImages/2014Jan/Hangout-Place_banner.jpg"></img>
+    คลิก >> <a href="https://www.wongnai.com/restaurants/9569iR-the-great-hornbill-pb-valley">ครัวเขาใหญ่</a><p></p>
+    <img src="http://ed.files-media.com/ud/images/1/23/66053/11678_3e623a5da6b11c260ad0196d2493b25a-620x392.jpg"></img>
+   
+   <section>
+        <div id="travel">
+          <h4>การเดินทาง</h4>
+          <hr>
+        </div> 
+    1. รถยนต์
+  จากกรุงเทพฯ เดินทางไปนครราชสีมาได้หลายเส้นทาง เส้นทางที่นิยมที่สุดคือ จากกรุงเทพฯ ใช้ทางหลวง หมายเลข 1 (พหลโยธิน) แยกเข้าทางหลวงหมายเลข 2 (มิตรภาพ) ที่สระบุรี ไปจนถึงนครราชสีมา รวมระยะทาง ประมาณ 259 กิโลเมตร อีกเส้นทางคือ จากกรุงเทพฯ ผ่านมีนบุรี ฉะเชิงเทรา พนมสารคาม กบินทร์บุรี ปักธงชัย ถึงนครราชสีมา รวมระยะทางประมาณ 273 กิโลเมตร หรืออาจเลือกใช้เส้นทางรังสิต-นครนายก ต่อทางหลวง หมายเลข 33 ไปกบินทร์บุรี แล้วแยกเข้าทางหลวงหมายเลข 304 ผ่านวังน้ำเขียว ปักธงชัย เข้านครราชสีมา<p></p>
+    2.รถโดยสารประจำทาง 
+  บริษัท ขนส่ง จำกัด มีรถโดยสารทั้งรถธรรมดาและรถปรับอากาศ ออกจาก สถานีขนส่งหมอชิต 2 ไปนครราชสีมาทุกวันและตลอดทั้งวัน <p></p>
+    3. รถไฟ 
+     มีรถไฟออกจากสถานีรถไฟกรุงเทพฯ (หัวลำโพง) ไปนครราชสีมาทุกวัน รายละเอียดสอบถามที่หน่วย โทร. 1690<p></p>
+    <section>
+        <div id="contact">
+          <h4>ติดต่อเรา</h4>
+          <hr>
+        </div> 
+        
+        
+  </body>
+</html>
